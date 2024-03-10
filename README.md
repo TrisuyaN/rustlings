@@ -1,6 +1,9 @@
 
 # rustlings-solution 🦀
 
+Finished on 4, March, 2024 !
+![](./Screenshot%20from%202024-03-04%2021-01-35.png)
+
 This repo contains my solution of the [rustlings](https://github.com/rust-lang/rustlings). And I will probably soon learn it again and add more notes. (｡╹ω╹｡)
 
 <div class="oranda-hide">
