@@ -1,3 +1,8 @@
+
+# rustlings-solution 🦀
+
+This repo contains my solution of the [rustlings](https://github.com/rust-lang/rustlings). And I will probably soon learn it again and add more notes. (｡╹ω╹｡)
+
 <div class="oranda-hide">
 
 # rustlings 🦀❤️
